@@ -7,6 +7,9 @@ public class Test_1 {
         String name="luolianjie";
 
         System.out.println(name+"age is "+a);
+        System.out.println(name+"age is2 "+a);
+        System.out.println(name+"age is3 "+a);
+
     }
 
 }
