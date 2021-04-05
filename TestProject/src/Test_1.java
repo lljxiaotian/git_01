@@ -10,8 +10,6 @@ public class Test_1 {
         System.out.println(name+"age is2 "+a);
         System.out.println(name+"age is3 "+a);
         //fsdfsdfsdfsdfdsfsdfsdfs
-
-
     }
     public void  getName(){
         System.out.println("gggggg");
