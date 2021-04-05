@@ -17,4 +17,5 @@ public class Test_1 {
         System.out.println("caiwogangma");
     }
 
+    private int i=1;
 }
