@@ -18,4 +18,5 @@ public class Test_1 {
     }
 
     private int i=1;
+    private int i1=3;
 }
