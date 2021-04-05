@@ -17,6 +17,7 @@ public class Test_1 {
     }
     public void  getName(){
         System.out.println("gggggg");
+        System.out.println("sdfsdfsdfdsf");
         new ArrayList<>();
     }
 
