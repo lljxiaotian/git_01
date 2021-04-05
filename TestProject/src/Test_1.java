@@ -1,5 +1,7 @@
 public class Test_1 {
-
+    static{
+        int i=0;
+    }
     private String  tag="study Git everyDay!";
     public static void main(String[] args) {
 
