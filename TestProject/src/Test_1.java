@@ -13,5 +13,8 @@ public class Test_1 {
 
 
     }
+    public void  getName(){
+        System.out.println("gggggg");
+    }
 
 }
