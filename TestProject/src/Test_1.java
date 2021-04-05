@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Test_1 {
 
     private String  tag="study Git everyDay!";
@@ -11,6 +13,11 @@ public class Test_1 {
         System.out.println(name+"age is3 "+a);
 
 
+        //fsdfsdfsdfsdfdsfsdfsdfs
+    }
+    public void  getName(){
+        System.out.println("gggggg");
+        new ArrayList<>();
     }
 
     void tttt(){
