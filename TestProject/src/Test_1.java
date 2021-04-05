@@ -28,4 +28,5 @@ public class Test_1 {
     private int i=1;
     private int i1=3;
     private int i2=3;
+    private int ir2=3;
 }
