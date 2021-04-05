@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Test_1 {
     static{
         int i=0;
@@ -15,6 +17,7 @@ public class Test_1 {
     }
     public void  getName(){
         System.out.println("gggggg");
+        new ArrayList<>();
     }
 
 }
