@@ -13,4 +13,8 @@ public class Test_1 {
 
     }
 
+    void tttt(){
+        System.out.println("caiwogangma");
+    }
+
 }
